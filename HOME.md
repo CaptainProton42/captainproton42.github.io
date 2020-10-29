@@ -11,7 +11,7 @@ Hello, my name is John a.k.a. CaptainProton42. I'm a former physics and now scie
   <div class="col s12">
     <div class="center-align">
       <a href="aboutme" class=" waves-effect waves-light btn hover-jello">
-        Resumé
+        Résumé
       </a>
     </div>
   </div>

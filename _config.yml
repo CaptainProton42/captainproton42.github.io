@@ -41,7 +41,7 @@ subtitle:
 navbar-links:
   About me : "/#subtitle"
   Projects: "/#posts"
-  Resumé: "resume"
+  Résumé: "resume"
 
 social:
   twitter: captainproton42

@@ -9,7 +9,7 @@ theme: yellow-candy
 
 <div style="display: flex; justify-content: space-between;">
 <div><h2 style="margin-top: 0">John Wigg</h2><br>Hobbyist Gamedev // Sci. Comp. Student</div>
-<div><div class="contact-box"> <i class="material-icons">email</i> john.wigg@gmx.net</div></div>
+<div><a href="mailto:john.wigg@gmx.net"><div class="contact-box"> <i class="material-icons">email</i> john.wigg@gmx.net</div></a></div>
 </div>
 
 #### Education

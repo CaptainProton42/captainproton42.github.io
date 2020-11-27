@@ -95,6 +95,7 @@ Graduation from high school with major subject physics. *DMV-Abiturpreis 2016* f
 
     <span class="advanced">Git</span>
     <span class="advanced">CMake</span>
+    <span class="basic">Catch2</span>
 </div>
 
 <div class="group">

@@ -6,7 +6,7 @@ theme: yellow-candy
 categories: [Tutorials & Demos, Games, Other projects]
 ---
 
-Hello, my name is John. I am a scientific computing student from Germany with a passion for gamedev and open source. Here you can find all the neat stuff I 've worked and am working on.
+Hello, my name is John. I'm a scientific computing student from Germany with a passion for gamedev, computer graphics and open source. Here you can find all the neat stuff I 've worked and am working on.
 
 <div class="row">
   <div class="col s12">

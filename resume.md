@@ -55,8 +55,8 @@ Graduation from high school with major subject physics. *DMV-Abiturpreis 2016* f
     <span class="proficient">C</span>
     <span class="proficient">Python</span>
     <span class="advanced">C++</span>
-    <span class="advanced">GLSL</span>
     <span class="advanced">CUDA</span>
+    <span class="basic">GLSL</span>
     <span class="basic">JavaScript</span>
     <span class="basic">C#</span>
     <span class="basic">Julia</span>
@@ -68,7 +68,7 @@ Graduation from high school with major subject physics. *DMV-Abiturpreis 2016* f
     <div class="header">IDEs and Editors</div>
     
     <span class="proficient">VS Code</span>
-    <span class="advanced">Visual Studio</span>
+    <span class="basic">Visual Studio</span>
     <span class="basic">Eclipse</span>
 </div>
     
@@ -85,8 +85,8 @@ Graduation from high school with major subject physics. *DMV-Abiturpreis 2016* f
     <div class="header">Asset Creation</div>
 
     <span class="proficient">Inkscape</span>
-    <span class="advanced">Blender</span>
     <span class="advanced">Paint Tool SAI</span>
+    <span class="basic">Blender</span>
     <span class="basic">Audacity</span>
 </div>
   

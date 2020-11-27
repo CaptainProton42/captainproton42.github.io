@@ -199,8 +199,6 @@ TESSA is short for *The Expanse Solar System Astrometrics* and a web application
 </div>
 </div>
 
-<div class="pagebreak"></div>
-
 <div class="group" markdown='1'>
 <div class="header">
 <div>SlowMoMod (+ Flash Mode)</div><div>2015</div>

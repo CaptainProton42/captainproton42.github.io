@@ -1,6 +1,5 @@
 ---
 title: Marbelous
-gh-repo: captainproton42/ldjam47
 summary: Winning submission for Ubisoft Game Jam 2020. I was part of a team of four and mainly responsible for tech and gameplay programming.
 category: Games
 tags: ["Game", "Jam", "Godot"]

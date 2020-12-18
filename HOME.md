@@ -4,7 +4,7 @@ permalink: /
 title: Portfolio
 theme: yellow-candy
 categories: [Tutorials & Demos, Games, Other projects]
-postlist-title: Portfolio
+postlist-title: Personal Projects
 postlist-description: A mostly complete list of personal projects. Most of these were done in my spare time and *not* as part of a university course. Check my [résumé](resume) for more university projects. Some links lead to external hosting websites.
 ---
 

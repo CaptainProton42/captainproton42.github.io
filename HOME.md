@@ -8,7 +8,7 @@ postlist-title: Projects
 postlist-description: This is a mostly complete list of my personal projects. Most of these were done in my spare time and *not* as part of a university course. Check out my [résumé](resume) for a list of university projects. Links may lead to external websites.
 ---
 
-Hi, my name is John. I'm a scientific computing student from Germany with a passion for gamedev, computer graphics, and open source. In my spare time, I like to participate in gamejams, experiment with game engines and sometimes write about it. Here you can find all the neat stuff I've worked on so far. Enjoy your stay!
+Hi, my name is John. I'm a former physics and current scientific computing student from Germany with a passion for gamedev, computer graphics, and open source. In my spare time, I like to participate in gamejams, experiment in game engines and sometimes write about it. Here you can find all the neat stuff I've worked on so far. Enjoy your stay!
 
 <div class="row">
   <div class="col s12">

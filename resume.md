@@ -28,7 +28,7 @@ Planned graduation in 2021.
 <div>B.Sc. Physics</div><div>2016–2019 (FSU Jena, Germany)</div>
 </div>
 
-Bachelor thesis on the topic *The dynamics of circumstellar dust grains under consideration of the radiative forces*
+Bachelor thesis on the topic *The dynamics of circumstellar dust grains under consideration of the radiative forces*.
 
 Graduation with final grade 1.6 (ECTS Grade B).
 </div>
@@ -153,7 +153,7 @@ Project work for a computational physics university course. The goal was to writ
 
 #### Notable Personal Projects
 
-A complete portfolio of all my personal projects is available at <a href="https://captainproton42.github.io">https://captainproton42.github.io</a>.
+A complete portfolio of all my personal projects is available at <a href="https://john-wigg.dev">https://john-wigg.dev</a>.
 
 <div class="group" markdown='1'>
 <div class="header">

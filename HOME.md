@@ -5,7 +5,7 @@ title: Portfolio
 theme: yellow-candy
 categories: [Tutorials & Demos, Games, Other projects]
 postlist-title: Personal Projects
-postlist-description: A mostly complete list of personal projects. Most of these were done in my spare time and *not* as part of a university course. Check out my [résumé](resume) for a list of university projects. Links may lead to external hosting websites.
+postlist-description: A mostly complete list of my personal projects. Most of these were done in my spare time and *not* as part of a university course. Check out my [résumé](resume) for a list of university projects. Links may lead to external hosting websites.
 ---
 
 Hi, my name is John. I'm a scientific computing student from Germany with a passion for gamedev, computer graphics and open source. Here you can find all the neat stuff I 've worked and am working on. Enjoy your stay!

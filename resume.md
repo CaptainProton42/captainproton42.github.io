@@ -28,7 +28,7 @@ Planned graduation in 2021.
 <div>B.Sc. Physics</div><div>2016–2019 (FSU Jena, Germany)</div>
 </div>
 
-Bachelor thesis on the topic *The dynamics of circumstellar dust grains under consideration of the radiative forces* received best grade 1.0
+Bachelor thesis on the topic *The dynamics of circumstellar dust grains under consideration of the radiative forces*
 
 Graduation with final grade 1.6 (ECTS Grade B).
 </div>
@@ -113,7 +113,7 @@ Graduation from high school with major subject physics. *DMV-Abiturpreis 2016* f
 <div class="header">
 <div>Implementing a Finite Element Method to Simulate Elastic Deformation in a Game Engine</div><div>2020</div>
 </div>
-Project work done for a Computational Physics university course. I implemented a Delaunay triangulator using the *Bowyer-Watson algorithm* as well as *Ruppert's algorithm* as well as a finite element method to triangulate and elastically deform arbitrary, non self-intersecting polygons in the Godot Engine. The implementation adds a new node, *ElasticBody2D*, which can be attached to the already built-in *Polygon2D* or *CollisionPolygon2D* nodes. The completed project also contains a small example game utilizing *ElasticBody2D* for its gameplay. The C++ source can be added to the Godot engine as a module or prebuilt binary downloaded from the project page.
+Project work done for a computational physics university course. I implemented a Delaunay triangulator using the *Bowyer-Watson algorithm* and *Ruppert's algorithm* to triangulate as well as a finite element method solver and elastically deform arbitrary, non self-intersecting polygons in the Godot Engine. The implementation adds a new node, *ElasticBody2D*, which can be attached to *Polygon2D* or *CollisionPolygon2D* nodes. The completed project also contains a small example game utilizing *ElasticBody2D* for its gameplay. The C++ source can be added to the Godot engine as a module or a prebuilt binary downloaded from the project page.
 <div class="footing">
 <div>Languages: C++, GDScript</div><div>Project source: <a href="https://github.com/cp3-ws1920/elastic_body_2d">https://https://github.com/cp3-ws1920/elastic_body_2d</a></div>
 </div>
@@ -123,7 +123,7 @@ Project work done for a Computational Physics university course. I implemented a
 <div class="header">
 <div>Bachelor Thesis</div><div>2019</div>
 </div>
-Numerical simulation of the dynamics of circumstellar dust around a center starunder the influence of its radiation. Main goal of the thesis was to find out whethera notable influence of the so-called Differential Doppler Effect, a force which had not been taken into account on most previous publications, has a notable influence on dust grain trajectories. Few other newer publications on this topic where available but yielded conflicting results. The thesis backed one of those publications, whilst conflicting with another by determining that the influence was negligible for most stars.
+Numerical simulation of the dynamics of circumstellar dust under the influence of the central star's radiation. Main goal of the thesis was to find out whether the so-called Differential Doppler Effect, a force which had not been taken into account in most previous publications, had a notable influence on dust grain trajectories. At least two other publications on this topic where available but yielded conflicting results. The thesis backed one of those publications, whilst conflicting with another by determining that the influence was negligible for most stars.
 <div class="footing">
 <div>Languages: C</div>
 </div>
@@ -133,7 +133,7 @@ Numerical simulation of the dynamics of circumstellar dust around a center staru
 <div class="header">
 <div>Solving the Navier Stokes equations using finite differences</div><div>2019</div>
 </div>
-Project done for a lab work course. Implementation of a finite differencing method in order to solve the Navier-Stokes equations and simulation of a lid-driven cavity.
+Project done for a lab work course. The goal was to implement a finite differencing method from scratch in order to solve the Navier-Stokes equations in two dimensions and simulate a lid-driven cavity.
 <div class="footing">
 <div>Languages: C</div><div>Project source: <a href="https://github.com/CaptainProton42/NavierStokes">https://github.com/CaptainProton42/NavierStokes</a></div>
 </div>
@@ -145,7 +145,7 @@ Project done for a lab work course. Implementation of a finite differencing meth
 <div class="header">
 <div>MNIST from scratch</div><div>2019</div>
 </div>
-Project work for the university course *Computational Physics III*. Programming of a neural network without using external libraries and training it using the MNIST dataset. I expanded the project by creating a Python module from the C++ source as well as collecting handwritten data from students on basic mathematical operators and implementing a calculator with handwriting recognition.
+Project work for a computational physics university course. The goal was to write a neural network without using existing machine learning libraries and to train it using data from the MNIST dataset. I expanded the project by creating a Python module from the C++ source as well as collecting handwritten data from students on digits and basic mathematical operators which I then used to program a calculator with handwriting recognition.
 <div class="footing">
 <div>Languages: C, Python</div><div>Project source: <a href="https://github.com/CaptainProton42/MNISTFromScratch">https://github.com/CaptainProton42/MNISTFromScratch</a></div>
 </div>
@@ -170,7 +170,7 @@ After I had gotten a bit more comfortable using the Godot Engine, I started work
 <div class="header">
 <div>Game Jam Participation</div><div>since 2020</div>
 </div>
-To hone my (game) programming skills, I decided to start participating in game jams. So far, I've participated in 4 different jams: *Quarantine Jam*, *Ludum Dare 46*, *Godot Wild Jam #25*, and *Ludum Dare 47* with very encouraging results. Most jam entries are open source and can be played at my itch.io page.
+To hone my (game) programming skills, I decided to start participating in game jams. So far, I've participated in 5 different jams: *Quarantine Jam*, *Ludum Dare 46*, *Godot Wild Jam #25*, *Ludum Dare 47* and *Ubisoft Game Jam 2020* with very encouraging results. Many jam entries are open source and all of them can be played at my itch.io page.
 <div class="footing">
 <div>Languages: GDScript</div>
 <div>Project link: <a href="https://captainproton42.itch.io/">https://captainproton42.itch.io/</a></div>
@@ -181,7 +181,7 @@ To hone my (game) programming skills, I decided to start participating in game j
 <div class="header">
 <div>Pocket Operators</div><div>2019–2020</div>
 </div>
-My most successfull and larget game project to date. Inspired by *Rainbow Six: Siege* fanart that I had mostly done until this point, I decided to create a heavily *Pokémon*-inspired in which the player could let operators (the characters in *Rainbow Six: Siege*) battle against each other. After very positive feedback (and even a retweet by the official *Rainbow Six: Siege* account) I added more operators, attacks, and a single-device versus mode. A online multiplayer version is mostly finished but on hold currently, mainly due to time contraints and hosting concerns.
+My most successfull and largest game project to date. Inspired by *Rainbow Six: Siege* fanart that I had done in the past, I decided to create a heavily *Pokémon*-inspired game in which the player could let operators (the characters in *Rainbow Six: Siege*) battle against each other. After very positive feedback (and even a retweet by the official *Rainbow Six: Siege* Twitter account) I added more operators, attacks, and a pass-and-play versus mode. I also did some (sadly to this date unfinished) work on a relay server for implementing online-lobbies.
 <div class="footing">
 <div>Languages: GDScript (Server: C++)</div>
 <div>Project link: <a href="https://captainproton42.itch.io/pocket-operators">https://captainproton42.itch.io/pocket-operators</a></div>
@@ -192,7 +192,7 @@ My most successfull and larget game project to date. Inspired by *Rainbow Six: S
 <div class="header">
 <div>TESSA</div><div>2019</div>
 </div>
-TESSA is short for *The Expanse Solar System Astrometrics* and a web application I created for GMing the *The Expanse* pen-and-paper RPG. It displays a map of the solar system based on orbital data from NASA JPL's HORIZONS system and allows the game master to plot routes between different planets and settings of *The Expanse*.
+TESSA is short for *The Expanse Solar System Astrometrics* and a web application I created for GMing the *The Expanse* pen-and-paper RPG. It displays a map of the solar system based on orbital data I extracted from NASA JPL's HORIZONS system and allows the game master to plot routes between different planets and settings of *The Expanse*.
 <div class="footing">
 <div>Languages: JavaScript</div>
 <div>Project link: <a href="https://github.com/CaptainProton42/TESSA">https://github.com/CaptainProton42/TESSA</a></div>
@@ -203,7 +203,7 @@ TESSA is short for *The Expanse Solar System Astrometrics* and a web application
 <div class="header">
 <div>SlowMoMod (+ Flash Mode)</div><div>2015</div>
 </div>
-One of my earliest full programming projects and probably my first successfull one. At first, the *SlowMoMod* allowed adjustable slow motion although it saw its peak in popularity when I added the *Flash Mode* which added sped-up movement even while in slow motion. With over 60,000 downloads, I am still very proud of this project, especially since it got featured in a small video showcase by IGN once! 
+One of my earliest proper programming projects and probably my first successfull one. This GTA V mod allows adjustable slow motion although it peaked in popularity when I added the "flash mode" which allows running at superhuman speeds, even while in slow motion. With over 60,000 downloads, I am still very proud of this project (and it even was featured in a small video showcase by IGN once).
 <div class="footing">
 <div>Languages: C++</div>
 <div>Project Link: <a href="https://www.gta5-mods.com/scripts/slowmomod">https://www.gta5-mods.com/scripts/slowmomod</a></div>

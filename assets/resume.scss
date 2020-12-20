@@ -76,16 +76,16 @@
     padding: 10px;
     padding-right: 20px;
     margin: 5px;
-    border: 2px solid #f81;
+    border: 2px solid #ffc95c;
     border-radius: 10px;
-    background-color: #f81;
-    color: white;
+    background-color: transparent;
+    color: #ffc95c;
     overflow: hidden;
 }
 
 .skillbar {
     position: absolute;
-    background-color: white;
+    background-color: #ffc95c;
     padding-left: 10px;
     content: "";
     bottom: 0;

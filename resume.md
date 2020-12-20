@@ -111,7 +111,7 @@ Graduation from high school with major subject physics. *DMV-Abiturpreis 2016* f
 
 <div class="group" markdown='1'>
 <div class="header">
-<div>Implementing a Finite Element Method to Simulate Elastic Deformation in a Game Engine</div><div>2020</div>
+<div>Implementing a Finite Element Solver to Simulate Elastic Deformation in a Game Engine</div><div>2020</div>
 </div>
 Project work done for a computational physics university course. I implemented a Delaunay triangulator using the *Bowyer-Watson algorithm* and *Ruppert's algorithm* to triangulate as well as a finite element method solver and elastically deform arbitrary, non self-intersecting polygons in the Godot Engine. The implementation adds a new node, *ElasticBody2D*, which can be attached to *Polygon2D* or *CollisionPolygon2D* nodes. The completed project also contains a small example game utilizing *ElasticBody2D* for its gameplay. The C++ source can be added to the Godot engine as a module or a prebuilt binary downloaded from the project page.
 <div class="footing">

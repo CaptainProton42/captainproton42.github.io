@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 title: Portfolio
-theme: yellow-candy
+theme: dark-night
 categories: [Tutorials & Demos, Games, Other projects]
 postlist-title: Projects
 postlist-description: This is a mostly complete list of my personal projects. Most of these were done in my spare time and *not* as part of a university course. Check out my [résumé](resume) for a list of university projects. Links may lead to external websites.

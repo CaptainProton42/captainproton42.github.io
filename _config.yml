@@ -21,7 +21,7 @@ social:
   itchio: captainproton42
   linkedin: john-wigg
 
-page-theme: yellow-candy
+page-theme: dark-night
 
 openInfoBox: "<div markdown='1' class='infobox'>"
 closeInfoBox: "</div>"

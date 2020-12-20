@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /resume
-theme: yellow-candy
+theme: dark-night
 ---
 
 <link rel="stylesheet" href="style.css">

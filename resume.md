@@ -117,7 +117,7 @@ Graduation from high school with major subject physics. *DMV-Abiturpreis 2016* f
 </div>
 Project work done for a computational physics university course. I implemented a Delaunay triangulator using the *Bowyer-Watson algorithm* and *Ruppert's algorithm* to triangulate as well as a finite element method solver and elastically deform arbitrary, non self-intersecting polygons in the Godot Engine. The implementation adds a new node, *ElasticBody2D*, which can be attached to *Polygon2D* or *CollisionPolygon2D* nodes. The completed project also contains a small example game utilizing *ElasticBody2D* for its gameplay. The C++ source can be added to the Godot engine as a module or a prebuilt binary downloaded from the project page.
 <div class="footing">
-<div>Languages: C++, GDScript</div><div>Project source: <a href="https://github.com/cp3-ws1920/elastic_body_2d">https://https://github.com/cp3-ws1920/elastic_body_2d</a></div>
+<div>Languages: C++, GDScript</div><div class="project-source">Project source: <a href="https://github.com/cp3-ws1920/elastic_body_2d">https://https://github.com/cp3-ws1920/elastic_body_2d</a></div>
 </div>
 </div>
 
@@ -137,7 +137,7 @@ Numerical simulation of the dynamics of circumstellar dust under the influence o
 </div>
 Project done for a lab work course. The goal was to implement a finite differencing method from scratch in order to solve the Navier-Stokes equations in two dimensions and simulate a lid-driven cavity.
 <div class="footing">
-<div>Languages: C</div><div>Project source: <a href="https://github.com/CaptainProton42/NavierStokes">https://github.com/CaptainProton42/NavierStokes</a></div>
+<div>Languages: C</div><div class="project-source">Project source: <a href="https://github.com/CaptainProton42/NavierStokes">https://github.com/CaptainProton42/NavierStokes</a></div>
 </div>
 </div>
 
@@ -149,7 +149,7 @@ Project done for a lab work course. The goal was to implement a finite differenc
 </div>
 Project work for a computational physics university course. The goal was to write a neural network without using existing machine learning libraries and to train it using data from the MNIST dataset. I expanded the project by creating a Python module from the C++ source as well as collecting handwritten data from students on digits and basic mathematical operators which I then used to program a calculator with handwriting recognition.
 <div class="footing">
-<div>Languages: C, Python</div><div>Project source: <a href="https://github.com/CaptainProton42/MNISTFromScratch">https://github.com/CaptainProton42/MNISTFromScratch</a></div>
+<div>Languages: C, Python</div><div class="project-source">Project source: <a href="https://github.com/CaptainProton42/MNISTFromScratch">https://github.com/CaptainProton42/MNISTFromScratch</a></div>
 </div>
 </div>
 
@@ -164,7 +164,7 @@ A complete portfolio of all my personal projects is available at <a href="https:
 After I had gotten a bit more comfortable using the Godot Engine, I started working on a series of open-source demos and tutorials made in the Godot Engine. Until now, I've done a **Bottled Liquid Shader**, **Dynamic Water** using finite differences and a fragment shader, a simple dynamic **2D Grass Shader**, a **Sky Aquarium** using dynamic water mapped to a sphere and a small tutorial on **2D Metaballs**. All of these have the source code openly available under the MIT license at my GitHub and most of these come with a detailed explanation of the implementation.
 <div class="footing">
 <div>Languages: GDScript</div>
-<div>Project source: <a href="https://github.com/CaptainProton42">https://github.com/CaptainProton42</a></div>
+<div class="project-source">Project source: <a href="https://github.com/CaptainProton42">https://github.com/CaptainProton42</a></div>
 </div>
 </div>
 
@@ -175,7 +175,7 @@ After I had gotten a bit more comfortable using the Godot Engine, I started work
 To hone my (game) programming skills, I decided to start participating in game jams. So far, I've participated in 5 different jams: *Quarantine Jam*, *Ludum Dare 46*, *Godot Wild Jam #25*, *Ludum Dare 47* and *Ubisoft Game Jam 2020* with very encouraging results. Many jam entries are open source and all of them can be played at my itch.io page.
 <div class="footing">
 <div>Languages: GDScript</div>
-<div>Project link: <a href="https://captainproton42.itch.io/">https://captainproton42.itch.io/</a></div>
+<div class="project-source">Project link: <a href="https://captainproton42.itch.io/">https://captainproton42.itch.io/</a></div>
 </div>
 </div>
 
@@ -186,7 +186,7 @@ To hone my (game) programming skills, I decided to start participating in game j
 My most successfull and largest game project to date. Inspired by *Rainbow Six: Siege* fanart that I had done in the past, I decided to create a heavily *Pokémon*-inspired game in which the player could let operators (the characters in *Rainbow Six: Siege*) battle against each other. After very positive feedback (and even a retweet by the official *Rainbow Six: Siege* Twitter account) I added more operators, attacks, and a pass-and-play versus mode. I also did some (sadly to this date unfinished) work on a relay server for implementing online-lobbies.
 <div class="footing">
 <div>Languages: GDScript (Server: C++)</div>
-<div>Project link: <a href="https://captainproton42.itch.io/pocket-operators">https://captainproton42.itch.io/pocket-operators</a></div>
+<div class="project-source">Project link: <a href="https://captainproton42.itch.io/pocket-operators">https://captainproton42.itch.io/pocket-operators</a></div>
 </div>
 </div>
 
@@ -197,7 +197,7 @@ My most successfull and largest game project to date. Inspired by *Rainbow Six: 
 TESSA is short for *The Expanse Solar System Astrometrics* and a web application I created for GMing the *The Expanse* pen-and-paper RPG. It displays a map of the solar system based on orbital data I extracted from NASA JPL's HORIZONS system and allows the game master to plot routes between different planets and settings of *The Expanse*.
 <div class="footing">
 <div>Languages: JavaScript</div>
-<div>Project link: <a href="https://github.com/CaptainProton42/TESSA">https://github.com/CaptainProton42/TESSA</a></div>
+<div class="project-source">Project link: <a href="https://github.com/CaptainProton42/TESSA">https://github.com/CaptainProton42/TESSA</a></div>
 </div>
 </div>
 
@@ -208,6 +208,6 @@ TESSA is short for *The Expanse Solar System Astrometrics* and a web application
 One of my earliest proper programming projects and probably my first successfull one. This GTA V mod allows adjustable slow motion although it peaked in popularity when I added the "flash mode" which allows running at superhuman speeds, even while in slow motion. With over 60,000 downloads, I am still very proud of this project (and it even was featured in a small video showcase by IGN once).
 <div class="footing">
 <div>Languages: C++</div>
-<div>Project Link: <a href="https://www.gta5-mods.com/scripts/slowmomod">https://www.gta5-mods.com/scripts/slowmomod</a></div>
+<div class="project-source">Project Link: <a href="https://www.gta5-mods.com/scripts/slowmomod">https://www.gta5-mods.com/scripts/slowmomod</a></div>
 </div>
 </div>

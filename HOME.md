@@ -1,7 +1,6 @@
 ---
 layout: home
 permalink: /
-title: Portfolio
 theme: green-light
 categories: [Tutorials & Demos, Games, Other projects]
 postlist-title: Projects

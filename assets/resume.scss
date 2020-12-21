@@ -140,8 +140,13 @@
     @extend .knowledge;
 }
 
-
 .proficient::after {
     @extend .skillbar;
     height: 100%;
+}
+
+.project-source {
+    white-space: nowrap;
+    overflow: scroll;
+    margin-left: 10px;
 }

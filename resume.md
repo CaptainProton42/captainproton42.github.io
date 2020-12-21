@@ -1,8 +1,7 @@
 ---
 layout: page
 permalink: /resume
-title: Résumé
-hide-title: true
+html-title: Résumé
 theme: dark-night
 favicon-emoji: 📋
 ---

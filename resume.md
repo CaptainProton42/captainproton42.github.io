@@ -2,7 +2,7 @@
 layout: page
 permalink: /resume
 html-title: Résumé
-theme: dark-night
+theme: orange-dark
 favicon-emoji: 📋
 ---
 

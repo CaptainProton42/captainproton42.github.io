@@ -30,7 +30,8 @@
     border-radius: 10px;
     background-color: transparent;
     color: #ffc95c;
-    overflow: hidden;
+    overflow: scroll;
+    white-space: nowrap;
 }
 
 @media print {

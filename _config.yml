@@ -7,7 +7,7 @@ plugins:
 
 title: John Wigg
 subtitle:
-  SciComp Student // Hobbyist Gamedev
+  Hobbyist Gamedev // Sci. Comp. Student
 
 navbar-links:
   About me : "/#subtitle"

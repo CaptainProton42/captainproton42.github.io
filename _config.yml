@@ -12,7 +12,7 @@ subtitle:
 navbar-links:
   About me : "/#subtitle"
   Projects: "/#posts"
-  Résumé: "resume"
+  Résumé: "/resume"
 
 social:
   twitter: captainproton42
@@ -22,6 +22,9 @@ social:
   linkedin: john-wigg
 
 page-theme: dark-night
+
+og-description: Hobbyist gamedev // Sci. Comp. Student
+og-image: /og-image.png
 
 openInfoBox: "<div markdown='1' class='infobox'>"
 closeInfoBox: "</div>"

@@ -1,6 +1,5 @@
 url: https://captainproton42.github.io
 
-# Build settings
 remote_theme: captainproton42/protontheme
 plugins:
  - jekyll-remote-theme

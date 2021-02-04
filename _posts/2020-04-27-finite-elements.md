@@ -5,5 +5,5 @@ summary: Implementation of a triangulator and FEM solver to elastically deform a
 category: Other projects
 tags: ["MIT License", "C++", "Godot"]
 thumbnail-image: assets/fem.gif
-external-url: https://github.com/cp3-ws1920/fem_game
+external-url: https://youtu.be/MJVwi01LAp8
 ---

@@ -84,7 +84,7 @@
     }
 }
 
-.knowledge {
+.skill {
     position: relative;
     display: inline-block;
     padding: 10px;
@@ -133,7 +133,7 @@
 }
 
 .basic {
-    @extend .knowledge;
+    @extend .skill;
 }
 
 .basic::after {
@@ -142,7 +142,7 @@
 }
 
 .advanced {
-    @extend .knowledge;
+    @extend .skill;
 }
 
 .advanced::after {
@@ -151,7 +151,7 @@
 }
 
 .proficient {
-    @extend .knowledge;
+    @extend .skill;
 }
 
 .proficient::after {

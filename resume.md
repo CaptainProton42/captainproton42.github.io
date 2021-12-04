@@ -20,10 +20,12 @@ favicon-emoji: 📋
 <div class="header">
 <div>Graduate Render Programmer</div><div>since 2021 (Frontier Developments, UK)</div>
 </div>
+</div>
 
 <div class="group" markdown='1'>
 <div class="header">
 <div>Technical Assistant</div><div>Juli&ndash;September 2021 (Department of Engineering Science, University of Oxford, UK)</div>
+</div>
 </div>
 
 #### Education

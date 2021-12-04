@@ -15,7 +15,7 @@ favicon-emoji: 📋
 <br>
 <div><a href="javascript:if(window.print)window.print()"><div class="link-box dont-print"> <i class="material-icons">print</i> Print me!</div></a></div>
 </div>
-<div><h2 style="margin-top: 0">John Wigg</h2><br>Hobbyist Gamedev // Sci. Comp. Student</div>
+<div><h2 style="margin-top: 0">John Wigg</h2><br>Hobbyist Gamedev // Render Programmer // Sci. Comp. MSc and Physics BSc</div>
 </div>
 
 #### Work Experience

@@ -63,66 +63,60 @@ Graduation from high school with major subject physics. *DMV-Abiturpreis 2016* f
 
 #### Skills
 
-<div class="center-align">
-<span class="basic">Basic</span>
-<span class="advanced">Advanced</span>
-<span class="proficient">Proficient</span>
-</div>
-
 <div class="group">
     <div class="header">Programming Languages</div>
     
-    <span class="proficient">C</span>
-    <span class="proficient">Python</span>
-    <span class="advanced">C++</span>
-    <span class="advanced">CUDA</span>
-    <span class="basic">GLSL</span>
-    <span class="basic">JavaScript</span>
-    <span class="basic">C#</span>
-    <span class="basic">Julia</span>
-    <span class="basic">R</span>
-    <span class="basic">Matlab</span>
+    <span class="skill">C</span>
+    <span class="skill">C++</span>
+    <span class="skill">Python</span>
+    <span class="skill">CUDA</span>
+    <span class="skill">GLSL</span>
+    <span class="skill">JavaScript</span>
+    <span class="skill">C#</span>
+    <span class="skill">Julia</span>
+    <span class="skill">R</span>
+    <span class="skill">Matlab</span>
 </div>
 
 <div class="group">
     <div class="header">IDEs and Editors</div>
     
-    <span class="proficient">VS Code</span>
-    <span class="basic">Visual Studio</span>
-    <span class="basic">Eclipse</span>
+    <span class="skill">VS Code</span>
+    <span class="skill">Visual Studio</span>
+    <span class="skill">Eclipse</span>
 </div>
     
 <div class="group">
     <div class="header">Game Engines</div>
 
-    <span class="proficient">Godot</span>
-    <span class="basic">Unity</span>
+    <span class="skill">Godot</span>
+    <span class="skill">Unity</span>
 </div>
 
 <div class="group">
     <div class="header">Asset Creation</div>
 
-    <span class="proficient">Inkscape</span>
-    <span class="advanced">Paint Tool SAI</span>
-    <span class="basic">Blender</span>
-    <span class="basic">Audacity</span>
+    <span class="skill">Inkscape</span>
+    <span class="skill">Paint Tool SAI</span>
+    <span class="skill">Blender</span>
+    <span class="skill">Audacity</span>
 </div>
   
 <div class="group">
     <div class="header">Tools</div>
 
-    <span class="advanced">Git</span>
-    <span class="advanced">CMake</span>
-    <span class="basic">Catch2</span>
+    <span class="skill">Git</span>
+    <span class="skill">CMake</span>
+    <span class="skill">Catch2</span>
 </div>
 
 <div class="group">
     <div class="header">Misc</div>
 
-    <span class="proficient">LaTeX</span>
-    <span class="advanced">HTML</span>
-    <span class="advanced">CSS</span>
-    <span class="basic">Sass</span>
+    <span class="skill">LaTeX</span>
+    <span class="skill">HTML</span>
+    <span class="skill">CSS</span>
+    <span class="skill">Sass</span>
 </div>
 
 <div class="pagebreak"></div>

@@ -18,14 +18,16 @@ favicon-emoji: 📋
 
 <div class="group" markdown='1'>
 <div class="header">
-<div>Graduate Render Programmer</div><div>since 2021 (Frontier Developments, UK)</div>
+<div>Graduate Render Programmer</div><div>since 2021 (Frontier Developments, Cambridge, UK)</div>
 </div>
+Developing rendering techniques used in games.
 </div>
 
 <div class="group" markdown='1'>
 <div class="header">
-<div>Technical Assistant</div><div>Juli&ndash;September 2021 (Department of Engineering Science, University of Oxford, UK)</div>
+<div>Technical Assistant</div><div>Juli&ndash;September 2021 (University of Oxford, UK)</div>
 </div>
+Development of a visualisation tool for pan-ExM data as part of my master thesis at the Department of Engineering Science.
 </div>
 
 #### Education

@@ -59,6 +59,8 @@ Graduation with final grade 1.6 (ECTS Grade B).
 Graduation from high school with major subject physics. *DMV-Abiturpreis 2016* for outstanding performance in the high school subject mathematics.
 </div>
 
+<div class="pagebreak"></div>
+
 #### Skills
 
 <div class="center-align">
@@ -81,8 +83,6 @@ Graduation from high school with major subject physics. *DMV-Abiturpreis 2016* f
     <span class="basic">R</span>
     <span class="basic">Matlab</span>
 </div>
-
-<div class="pagebreak"></div>
 
 <div class="group">
     <div class="header">IDEs and Editors</div>

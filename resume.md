@@ -11,8 +11,8 @@ favicon-emoji: 📋
 
 <div style="display: flex; justify-content: space-between; flex-flow: row-reverse wrap">
 <div><a href="mailto:john.wigg@gmx.net"><div class="link-box"> <i class="material-icons">email</i> john.wigg@gmx.net</div></a></div>
-<div><a href="javascript:if(window.print)window.print()"><div class="link-box dont-print"> <i class="material-icons">print</i> Print me!</div></a></div>  
 <div><h2 style="margin-top: 0">John Wigg</h2><br>Hobbyist Gamedev // Sci. Comp. Student</div>
+<div><a href="javascript:if(window.print)window.print()"><div class="link-box dont-print"> <i class="material-icons">print</i> Print me!</div></a></div>  
 </div>
 
 #### Work Experience

@@ -31,7 +31,7 @@ Developing rendering techniques used in games.
 <div class="header">
 <div>Technical Assistant</div><div>Juli&ndash;September 2021 (University of Oxford, UK)</div>
 </div>
-Development of a visualisation tool for pan-ExM data as part of my master thesis at the Department of Engineering Science.
+Development of a visualisation tool for pan-ExM data as part of my master thesis that was together with the Derpartment of Engineering Science.
 </div>
 
 #### Education

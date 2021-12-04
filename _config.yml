@@ -6,7 +6,7 @@ plugins:
 
 title: John Wigg
 subtitle:
-  Hobbyist Gamedev // Sci. Comp. Student
+  Hobbyist Gamedev // Render Programmer
 
 navbar-links:
   About me : "/#subtitle"

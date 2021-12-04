@@ -34,7 +34,7 @@ Development of a visualisation tool for pan-ExM data as part of my master thesis
 
 <div class="group" markdown='1'>
 <div class="header">
-<div>M.Sc. Computational and Data Science</div><div>since 2019 (FSU Jena, Germany)</div>
+<div>M.Sc. Computational and Data Science</div><div>2019&ndash;2021 (FSU Jena, Germany)</div>
 </div>
 
 Master thesis on the topic *Design and Implementation of a Web-based Visualisation Tool for Pan-ExM Data*.

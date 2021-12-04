@@ -14,6 +14,18 @@ favicon-emoji: 📋
 <div><h2 style="margin-top: 0">John Wigg</h2><br>Hobbyist Gamedev // Sci. Comp. Student</div>
 </div>
 
+#### Work Experience
+
+<div class="group" markdown='1'>
+<div class="header">
+<div>Graduate Render Programmer</div><div>since 2021 (Frontier Developments, UK)</div>
+</div>
+
+<div class="group" markdown='1'>
+<div class="header">
+<div>Technical Assistant</div><div>Juli&ndash;September 2021 (Department of Engineering Science, University of Oxford, UK)</div>
+</div>
+
 #### Education
 
 <div class="group" markdown='1'>

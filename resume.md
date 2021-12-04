@@ -37,7 +37,7 @@ Development of a visualisation tool for pan-ExM data as part of my master thesis
 <div>M.Sc. Computational and Data Science</div><div>since 2019 (FSU Jena, Germany)</div>
 </div>
 
-Planned graduation in 2021.
+Master thesis on the topic *Design and Implementation of a Web-based Visualisation Tool for Pan-ExM Data*.
 
 </div>
 

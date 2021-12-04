@@ -22,7 +22,7 @@
     margin-top: 10px;
 }
 
-.contact-box {
+.link-box {
     position: relative;
     padding: 10px;
     margin: 5px;
@@ -131,7 +131,13 @@
         -webkit-print-color-adjust: exact;
     }
     
-    background:transparent;
+    .dont-print {
+        display: none;
+    }
+    
+    body {
+        background: transparent;
+    }
 }
 
 .basic {

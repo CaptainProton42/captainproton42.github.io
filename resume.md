@@ -157,6 +157,8 @@ Project done for a lab work course. The goal was to implement a finite differenc
 </div>
 </div>
 
+<div class="pagebreak"></div>
+
 <div class="group" markdown='1'>
 <div class="header">
 <div>MNIST from scratch</div><div>2019</div>
@@ -166,8 +168,6 @@ Project work for a computational physics university course. The goal was to writ
 <div>Languages: C, Python</div><div class="project-source">Project source: <a href="https://github.com/CaptainProton42/MNISTFromScratch">https://github.com/CaptainProton42/MNISTFromScratch</a></div>
 </div>
 </div>
-
-<div class="pagebreak"></div>
 
 #### Notable Personal Projects
 

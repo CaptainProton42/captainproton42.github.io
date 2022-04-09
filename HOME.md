@@ -13,7 +13,7 @@ Hi, my name is John. I'm a render programmer from Germany with an MSc in scienti
 <div class="row">
   <div class="col s12">
     <div class="center-align">
-      <a href="resume" class=" waves-effect waves-light btn hover-jello">
+      <a href="resume.html" class=" waves-effect waves-light btn hover-jello">
         Résumé
       </a>
     </div>

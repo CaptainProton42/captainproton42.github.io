@@ -3,8 +3,6 @@ url: https://captainproton42.github.io
 remote_theme: captainproton42/protontheme
 plugins:
  - jekyll-remote-theme
- 
-encoding: utf-8
 
 title: John Wigg
 subtitle:
@@ -13,7 +11,7 @@ subtitle:
 navbar-links:
   About me : "/#subtitle"
   Projects: "/#posts"
-  Résumé: "/resume.html"
+  Résumé: "/resume"
 
 social:
   twitter: captainproton42

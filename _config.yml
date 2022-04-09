@@ -4,7 +4,7 @@ remote_theme: captainproton42/protontheme
 plugins:
  - jekyll-remote-theme
  
-encoding: utf-16
+encoding: utf-8
 
 title: John Wigg
 subtitle:

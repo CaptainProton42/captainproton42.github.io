@@ -22,7 +22,14 @@ favicon-emoji: 📋
 
 <div class="group" markdown='1'>
 <div class="header">
-<div>Graduate Render Programmer</div><div>since 2021 (Frontier Developments, Cambridge, UK)</div>
+<div>Full Render Programmer</div><div>since 2022 (Frontier Developments, Cambridge, UK)</div>
+</div>
+Developing rendering techniques used in games.
+</div>
+
+<div class="group" markdown='1'>
+<div class="header">
+<div>Graduate Render Programmer</div><div>2021&ndash;2022 (Frontier Developments, Cambridge, UK)</div>
 </div>
 Developing rendering techniques used in games.
 </div>

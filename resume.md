@@ -34,7 +34,7 @@ Enhancing and delivering graphical features for Frontier's in-house game engine 
 <div class="header">
 <div>Technical Assistant</div><div>Juli&ndash;September 2021 (University of Oxford, UK)</div>
 </div>
-Development of a visualisation tool for pan-ExM data as part of my master thesis that was together with the Department of Engineering Science.
+Development of a visualisation tool for pan-ExM data as part of my master thesis which was done together with the Department of Engineering Science.
 </div>
 
 #### Education

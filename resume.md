@@ -23,12 +23,6 @@ favicon-emoji: 📋
 <div class="group" markdown='1'>
 <div class="header">
 <div>Full Render Programmer</div><div>since 2022 (Frontier Developments, Cambridge, UK)</div>
-</div>
-Enhancing and delivering graphical features for Frontier's in-house game engine Cobra.
-</div>
-
-<div class="group" markdown='1'>
-<div class="header">
 <div>Graduate Render Programmer</div><div>2021&ndash;2022 (Frontier Developments, Cambridge, UK)</div>
 </div>
 Enhancing and delivering graphical features for Frontier's in-house game engine Cobra.

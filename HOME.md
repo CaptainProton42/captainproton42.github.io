@@ -8,7 +8,7 @@ postlist-description: This is a mostly complete list of my personal projects. Mo
 favicon-emoji: ✨
 ---
 
-Hi, my name is John. I'm a render programmer from Germany with an MSc in scientific computing and a BSc in physics. I have a passion for gamedev, computer graphics, and open source. In my spare time, I participate in gamejams, experiment in game engines and sometimes write about it. Here you can find all the neat stuff I've been working on so far. Enjoy your stay!
+<span onclick="alert('Hello World!')">Hi, my name is John</span>. I'm a render programmer fromGermany with an MSc in scientific computing and a BSc in physics. I have a passion for gamedev, computer graphics, and open source. In my spare time, I participate in gamejams, experiment in game engines and sometimes write about it. Here you can find all the neat stuff I've been working on so far. Enjoy your stay!
 
 <div class="row">
   <div class="col s12">
